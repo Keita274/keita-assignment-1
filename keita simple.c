@@ -1,6 +1,6 @@
 /*
- Student Name: Raymond Ndoro Tsuma 
- Student Reg No: D33-2402-2023
+ Student Name: Benjamin keita
+ Student Reg No: D33-0270-2022
  Course Unit: BMS 201
  Student Year & Sem: 2.2
  Test Quiz:  SIMPLE INTEREST 

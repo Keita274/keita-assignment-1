@@ -1,7 +1,7 @@
 // Programm to find the compound interest 
 /*
-STUDENT NAME: RAYMOND NDORO 
-ADM NUMBER: D33-2402-2023
+STUDENT NAME: Benjamin Keita
+ADM NUMBER: D33-0270-2022
     
     */
     #include <stdio.h>
